@@ -1,0 +1,1 @@
+jupyter nbconvert presentation.ipynb --to slides  --reveal-prefix reveal.js --SlidesExporter.reveal_scroll=True
